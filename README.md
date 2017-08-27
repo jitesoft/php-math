@@ -9,9 +9,20 @@
 [![codecov](https://codecov.io/gh/jitesoft/php-math/branch/master/graph/badge.svg)](https://codecov.io/gh/jitesoft/php-math)
 
 
-A Math library for php 7.1+
+A Math library for php 7.1+.  
+This lib was extracted from the `Jitesoft\Utilities\DataStructures` project.
+
+## Installation
+
+Clone the repository or install with composer.  
+
+```bash
+composer require jitesoft/math
+```
+
 
 ## Implemented classes
+
 `Jitesoft\Utilities\Math`
  
 * `Math`        - Misc static math helpers.
@@ -24,7 +35,6 @@ A Math library for php 7.1+
 * `Matrix33`    - A matrix structure with 3*3 indexes.
 * `Matrix44`    - A matrix structure with 4*4 indexes.
 * `MatrixMath`  - Common math for all matrices.
-
 
 ## License
 
