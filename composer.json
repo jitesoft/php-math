@@ -25,10 +25,5 @@
         "psr-4": {
             "Jitesoft\\Utilities\\Math\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Jitesoft\\Utilities\\Math\\Tests\\": "tests/"
-        }
     }
 }

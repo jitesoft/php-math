@@ -12,8 +12,6 @@ use Jitesoft\Utilities\Math\Exceptions\NotImplementedException;
 use OutOfBoundsException;
 
 /**
- * Trait VectorAccessTrait
- *
  * Trait used by Vector structures to enable array access by any type of offset set in the $offset variable.
  */
 trait VectorAccessTrait {
