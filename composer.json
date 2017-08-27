@@ -1,6 +1,6 @@
 {
     "name": "jitesoft/math",
-    "description": "Misc data structures for php.",
+    "description": "Math lib for php 7.1+.",
     "type": "library",
     "keywords": [ "math", "vector", "matrix" ],
     "license": "MIT",
