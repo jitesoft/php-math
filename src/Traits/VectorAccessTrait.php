@@ -8,7 +8,7 @@ namespace Jitesoft\Utilities\Math\Traits;
 
 use Exception;
 use InvalidArgumentException;
-use Jitesoft\Utilities\Math\Exceptions\NotImplementedException;
+use Jitesoft\Exceptions\LazyExceptions\NotImplementedException;
 use OutOfBoundsException;
 
 /**

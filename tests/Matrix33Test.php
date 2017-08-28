@@ -6,7 +6,7 @@
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 namespace Jitesoft\Utilities\Math\Tests;
 
-use Jitesoft\Utilities\Math\Exceptions\InvalidOperationException;
+use Jitesoft\Exceptions\LogicExceptions\InvalidOperationException;
 use Jitesoft\Utilities\Math\Math;
 use Jitesoft\Utilities\Math\Matrix33;
 use Jitesoft\Utilities\Math\MatrixMath;

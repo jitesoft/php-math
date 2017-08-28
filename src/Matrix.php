@@ -7,7 +7,7 @@
 namespace Jitesoft\Utilities\Math;
 
 use ArrayAccess;
-use Jitesoft\Utilities\Math\Exceptions\InvalidOperationException;
+use Jitesoft\Exceptions\LogicExceptions\InvalidOperationException;
 use OutOfBoundsException;
 
 /**

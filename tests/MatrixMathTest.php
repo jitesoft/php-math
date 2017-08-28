@@ -6,7 +6,7 @@
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 namespace Jitesoft\Utilities\Math\Tests;
 
-use Jitesoft\Utilities\Math\Exceptions\NotImplementedException;
+use Jitesoft\Exceptions\LazyExceptions\NotImplementedException;
 use Jitesoft\Utilities\Math\Math;
 use Jitesoft\Utilities\Math\Matrix33;
 use Jitesoft\Utilities\Math\Matrix44;
